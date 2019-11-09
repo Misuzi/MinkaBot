@@ -1,0 +1,16 @@
+{
+  "name": "minkabot",
+  "version": "1.0.0",
+  "description": "~Nya~",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Misuzi",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "sequelize": "^4.42.0",
+    "sqlite3": "^4.0.6"
+  }
+}
