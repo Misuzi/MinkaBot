@@ -1,18 +1,18 @@
-# Title
+# MinkaBot
 MinkaBot (Discord Bot)
 
-# Description
+## Description
 Discord bot that represents my real life cat. Has custom commands to interact with.
 
-# Motivation
+## Motivation
 This is a fun project that I use to entertain my friends.
 
-# Quick Start
+## Quick Start
 Install node.js
 run
 
-# Usage
+## Usage
 Run on any windows / web server
 
-# Contributing
+## Contributing
 Add me on discord: misuzi
